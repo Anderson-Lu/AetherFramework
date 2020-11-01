@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Wro1Ke9FocMHTYnFU/iv7FWDLZQ=",
+			"path": "github.com/scottkiss/grtm",
+			"revision": "1c69ec29e5b2d690d97846f8cfbaeb312b6d2aa6",
+			"revisionTime": "2015-10-09T10:58:40Z"
+		}
+	],
+	"rootPath": "poseidon"
+}
